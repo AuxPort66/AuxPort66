@@ -6,18 +6,18 @@
 
 <p align="center">
    <a href="https://github.com/Horizons-Games/Axolotl-Engine"><sup>Axoltl Engine & Starfall Rebellion Game</sup></a><br />
-   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/a983a17b-d8c7-47f6-9d2a-be15f410c0e3" align="center" height="230">
-   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/b55f5026-955d-484c-840a-3e8c1ae00337" align="center" height="230">
-   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/049d396a-994d-4c50-97e3-2dc91e792c39" align="center" height="230" width="405">
-   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/77f605e2-7d06-4940-b5f3-89dfb5745de7" align="center" height="230" width="405">
+   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/a983a17b-d8c7-47f6-9d2a-be15f410c0e3" align="center" height="180">
+   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/b55f5026-955d-484c-840a-3e8c1ae00337" align="center" height="180">
+   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/049d396a-994d-4c50-97e3-2dc91e792c39" align="center" height="180" width="320">
+   <img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/77f605e2-7d06-4940-b5f3-89dfb5745de7" align="center" height="180" width="320">
 </p>
 
 Also I have created several **personal projects as a solo game dev** where I mix my taste for video game design, **C++**, and even machine learning creating my own video games and tools. I love discovering new languages and technologies and I'm always very detail-oriented and get really involved in team projects.
 
 <p align="center">
-   <a href="https://github.com/AuxPort66/Teryat"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/9754d5df-44eb-46b7-9cdb-0c97aee6e4bc" align="center" height="230" title="Teryat 2D Platform in C++"></a>
-   <a href="https://theredwolf66.itch.io/alchemists-live"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/c635a41f-77a3-41de-8a84-b812cce9bd44" align="center" height="230" title="Alchemist' life 2D PointAndClick GameJam in Unity"></a>
-   <a href="https://github.com/AuxPort66/3D-Engine-Videogame-Master"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/03518a47-db71-41a0-95dc-e6a563f285f9" align="center" height="230" title="Bases of 3D Engine from scratch"></a>
+   <a href="https://github.com/AuxPort66/Teryat"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/9754d5df-44eb-46b7-9cdb-0c97aee6e4bc" align="center" height="180" title="Teryat 2D Platform in C++"></a>
+   <a href="https://theredwolf66.itch.io/alchemists-live"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/c635a41f-77a3-41de-8a84-b812cce9bd44" align="center" height="180" title="Alchemist' life 2D PointAndClick GameJam in Unity"></a>
+   <a href="https://github.com/AuxPort66/3D-Engine-Videogame-Master"><img src="https://github.com/AuxPort66/AuxPort66/assets/93783740/03518a47-db71-41a0-95dc-e6a563f285f9" align="center" height="180" title="Bases of 3D Engine from scratch"></a>
 </p>
  
 ### Extra
